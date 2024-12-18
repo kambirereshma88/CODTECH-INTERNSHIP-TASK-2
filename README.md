@@ -1,5 +1,5 @@
 # CODTECH-INTERNSHIP-TASK-2
-
+Name: Reshma Rahul Suryawanshi Company: CODTECH IT SOLUTIONS ID:CT08DS87 Domain:Data Analytics Duration: Nov to Dec 2024
 
 
 Objective
