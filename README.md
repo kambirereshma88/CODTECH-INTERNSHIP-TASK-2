@@ -56,3 +56,12 @@ Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
+
+
+
+
+
+
+![CODTECH task 2](https://github.com/user-attachments/assets/2bfd744c-4ea6-4c39-922c-30585999bf11)
+
+
